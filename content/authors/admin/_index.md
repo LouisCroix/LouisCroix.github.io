@@ -48,11 +48,11 @@ interests:
 education:
   - area: M.S.E. in Computer Science
     institution: Johns Hopkins University
-    date_start: 2025-09
+    date_start: 2025-09-01
   - area: Visiting Student
     institution: University of California, Berkeley
-    date_start: 2024-01
-    date_end: 2024-05
+    date_start: 2024-01-15
+    date_end: 2024-05-12
     summary: |
       GPA: 4.00/4.00
       Courses included:
@@ -60,8 +60,8 @@ education:
       - Artificial Intelligence
   - area: BE in Computer Science and Engineering
     institution: The Chinese University of Hong Kong, Shenzhen
-    date_start: 2021-09
-    date_end: 2025-07
+    date_start: 2021-09-01
+    date_end: 2025-07-01
     summary: |
       GPA: 3.78/4.00
       Courses included:
