@@ -48,11 +48,11 @@ interests:
 education:
   - area: M.S.E. in Computer Science
     institution: Johns Hopkins University
-    date_start: Anticipated 2025-09
+    date_start: Anticipated 2025-09-01
   - area: Visiting Student
     institution: University of California, Berkeley
-    date_start: 2024-01
-    date_end: 2024-05
+    date_start: 2024-01-15
+    date_end: 2024-05-12
     summary: |
       GPA: 4.00/4.00
       Courses included:
@@ -60,8 +60,8 @@ education:
       - Artificial Intelligence
   - area: BE in Computer Science and Engineering
     institution: The Chinese University of Hong Kong, Shenzhen
-    date_start: 2021-09
-    date_end: 2025-07
+    date_start: 2021-09-01
+    date_end: 2025-07-01
     summary: |
       GPA: 3.78/4.00
       Courses included:
@@ -74,8 +74,8 @@ education:
 work:
   - position: Performance R&D Group Intern
     company_name: Tencent TiMi Studio Group
-    date_start: 2024-05
-    date_end: 2024-08
+    date_start: 2024-05-23
+    date_end: 2024-08-30
     summary: |
       Responsibilities include:
       - Refined the term tables for Chinese-to-English, English-to-French, and English-to-German translations to support the overseas release of Tencent's Honor of Kings (HOK) and Delta Force (DF)
@@ -127,13 +127,12 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
+  - title: Dean's Lists for academic years from 2021 to 2024
+    awarder: School of Data Science
     icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+  - title: Undergraduate Research Award in 2023
+    awarder: The Chinese University of Hong Kong (Shenzhen) URA Committee
+    icon: coursera
 ---
 
 ## About Me
