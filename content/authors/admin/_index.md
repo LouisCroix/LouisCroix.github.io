@@ -84,41 +84,35 @@ work:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-# skills:
-#   - name: Technical Skills
-#     items:
-#       - name: Python
-#         description: ''
-#         percent: 80
-#         icon: code-bracket
-#       - name: Data Science
-#         description: ''
-#         percent: 100
-#         icon: chart-bar
-#       - name: SQL
-#         description: ''
-#         percent: 40
-#         icon: circle-stack
-#   - name: Hobbies
-#     color: '#eeac02'
-#     color_border: '#f0bf23'
-#     items:
-#       - name: Hiking
-#         description: ''
-#         percent: 60
-#         icon: person-simple-walk
-#       - name: Cats
-#         description: ''
-#         percent: 100
-#         icon: cat
-#       - name: Photography
-#         description: ''
-#         percent: 80
-#         icon: camera
+skills:
+  - name: Technical Skills
+    items:
+      - name: Python
+        description: ''
+        percent: 100
+        icon: code-bracket
+      - name: PyTorch
+        description: ''
+        percent: 100
+        icon: chart-bar
+      - name: Huggingface Libraries
+        description: ''
+        percent: 90
+        icon: circle-stack
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Badminton
+        description: ''
+        percent: 80
+      - name: Chinese Chess
+        description: ''
+        percent: 80
 
 languages:
   - name: English
-    percent: 75
+    percent: 80
   - name: Chinese
     percent: 100
 
@@ -129,10 +123,8 @@ languages:
 awards:
   - title: Dean's Lists for academic years from 2021 to 2024
     awarder: School of Data Science
-    icon: coursera
   - title: Undergraduate Research Award in 2023
     awarder: The Chinese University of Hong Kong (Shenzhen) URA Committee
-    icon: coursera
 ---
 
 ## About Me
