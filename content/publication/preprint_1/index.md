@@ -1,5 +1,5 @@
 ---
-title: "Is information extraction solved by chatgpt? an analysis of performance, evaluation criteria, robustness and errors"
+title: "Is Information Extraction Solved by ChatGPT? An Analysis of Performance, Evaluation Criteria, Robustness and Errors"
 authors:
 - Ridong Han
 - Tao Peng

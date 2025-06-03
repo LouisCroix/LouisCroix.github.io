@@ -1,5 +1,5 @@
 ---
-title: "Learning Word Embedding with Better Distance Weighting and Window Size Scheduling"
+title: "Q-Adam-mini: Memory-Efficient 8-bit Quantized Optimizer for Large Language Model Training"
 authors:
 - Yizhou Han
 - admin
@@ -21,7 +21,7 @@ publication_types: ["article"]
 # publication: ""
 # publication_short: ""
 
-abstract: "Distributed word representation (a.k.a. word embedding) is a key focus in natural language processing (NLP). As a highly successful word embedding model, Word2Vec offers an efficient method for learning distributed word representations on large datasets. However, Word2Vec lacks consideration for distances between center and context words. We propose two novel methods, Learnable Formulated Weights (LFW) and Epoch-based Dynamic Window Size (EDWS), to incorporate distance information into two variants of Word2Vec, the Continuous Bag-of-Words (CBOW) model and the Continuous Skip-gram (Skip-gram) model. For CBOW, LFW uses a formula with learnable parameters that best reflects the relationship of influence and distance between words to calculate distance-related weights for average pooling, providing insights for future NLP text modeling research. For Skip-gram, we improve its dynamic window size strategy to introduce distance information in a more balanced way. Experiments prove the effectiveness of LFW and EDWS in enhancing Word2Vec's performance, surpassing previous state-of-the-art methods."
+abstract: "We propose Q-Adam-mini, a memory-efficient optimizer for Large Language Model (LLM) training that achieves 8x reduction in GPU memory usage while maintaining performance parity with full-precision AdamW. Building upon Adam-mini, which reduces memory footprint of optimizer states by 50% compared to AdamW, we further improve memory efficiency through states quantization. We achieve this by: (i) quantizing the first-order momentum (m) to INT8 and (ii) retaining the second-order momentum (v) in FP32, which occupies less than 1% of total memory. However, embedding layer exhibits weight norm instability. We analyze this issue and address it by applying stochastic rounding for momentum quantization exclusively to the embedding layer. We validate our approach on both pre-training and fine-tuning tasks, with the model size ranging from 60M to 8B. Our results demonstrate that Q-Adam-mini enables scalable LLM training with limited computational resources. Codes are available at: https://anonymous.4open.science/r/Q-Adam-mini-FD45/"
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
