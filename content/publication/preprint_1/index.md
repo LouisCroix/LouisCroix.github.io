@@ -2,7 +2,7 @@
 title: "Is information extraction solved by chatgpt? an analysis of performance, evaluation criteria, robustness and errors"
 authors:
 - admin
-date: "2023-06-01"
+date: "2025-06-01"
 # doi: ""
 
 # Schedule page publish date (NOT publication's date).
