@@ -1,8 +1,12 @@
 ---
 title: "Is information extraction solved by chatgpt? an analysis of performance, evaluation criteria, robustness and errors"
 authors:
+- Ridong Han
+- Tao Peng
 - admin
-- 
+- Benyou Wang
+- Lu Liu
+- Xiang Wan
 date: "2025-06-01"
 # doi: ""
 
