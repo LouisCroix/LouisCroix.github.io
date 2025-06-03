@@ -1,5 +1,5 @@
 ---
-title: "An example preprint / working paper"
+title: "Is information extraction solved by chatgpt? an analysis of performance, evaluation criteria, robustness and errors"
 authors:
 - admin
 date: "2023-06-01"
