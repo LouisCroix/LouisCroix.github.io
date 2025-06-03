@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 超豪 杨
+title: Chaohao Yang
 
 # Name pronunciation (optional)
-name_pronunciation: Chaohao Yang
+name_pronunciation: 超豪 杨
 
 # Full name (for SEO)
 first_name: Chaohao
