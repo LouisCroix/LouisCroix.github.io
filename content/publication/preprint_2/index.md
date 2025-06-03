@@ -3,7 +3,7 @@ title: "Learning Word Embedding with Better Distance Weighting and Window Size S
 authors:
 - admin
 - Chris Ding
-date: "2025-06-01"
+date: "2025-05-30"
 # doi: ""
 
 # Schedule page publish date (NOT publication's date).
