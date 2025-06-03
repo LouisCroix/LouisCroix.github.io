@@ -109,6 +109,9 @@ skills:
       - name: Chinese Chess
         description: ''
         percent: 80
+      - name: Reading
+        description: ''
+        percent: 80
 
 languages:
   - name: English
