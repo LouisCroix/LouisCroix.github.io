@@ -1,11 +1,12 @@
 ---
-title: "Learning Word Embedding with Better Distance Weighting and Window Size Scheduling"
+title: "Is information extraction solved by chatgpt? an analysis of performance, evaluation criteria, robustness and errors"
 authors:
-- Yizhou Han
+- Ridong Han
+- Tao Peng
 - admin
-- Congliang Chen
-- Xingjian Wang
-- Ruoyu Sun
+- Benyou Wang
+- Lu Liu
+- Xiang Wan
 date: "2025-06-01"
 # doi: ""
 
@@ -21,7 +22,7 @@ publication_types: ["article"]
 # publication: ""
 # publication_short: ""
 
-abstract: "Distributed word representation (a.k.a. word embedding) is a key focus in natural language processing (NLP). As a highly successful word embedding model, Word2Vec offers an efficient method for learning distributed word representations on large datasets. However, Word2Vec lacks consideration for distances between center and context words. We propose two novel methods, Learnable Formulated Weights (LFW) and Epoch-based Dynamic Window Size (EDWS), to incorporate distance information into two variants of Word2Vec, the Continuous Bag-of-Words (CBOW) model and the Continuous Skip-gram (Skip-gram) model. For CBOW, LFW uses a formula with learnable parameters that best reflects the relationship of influence and distance between words to calculate distance-related weights for average pooling, providing insights for future NLP text modeling research. For Skip-gram, we improve its dynamic window size strategy to introduce distance information in a more balanced way. Experiments prove the effectiveness of LFW and EDWS in enhancing Word2Vec's performance, surpassing previous state-of-the-art methods."
+abstract: 'ChatGPT has stimulated the research boom in the field of large language models. In this paper, we assess the capabilities of ChatGPT from four perspectives including Performance, Evaluation Criteria, Robustness and Error Types. Specifically, we first evaluate ChatGPT’s performance on 17 datasets with 14 IE sub-tasks under the zero-shot, few-shot and chain-ofthought scenarios, and find a huge performance gap between ChatGPT and SOTA results. Next, we rethink this gap and propose a soft-matching strategy for evaluation to more accurately reflect ChatGPT’s performance. Then, we analyze the robustness of ChatGPT on 14 IE subtasks, and find that: 1) ChatGPT rarely outputs invalid responses; 2) Irrelevant context and long-tail target types greatly affect ChatGPT’s performance; 3) ChatGPT cannot understand well the subject-object relationships in RE task. Finally, we analyze the errors of ChatGPT, and find that “unannotated spans” is the most dominant error type. This raises concerns about the quality of annotated data, and indicates the possibility of annotating data with ChatGPT. The data and code are released at Github site 1.'
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
