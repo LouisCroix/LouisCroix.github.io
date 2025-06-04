@@ -82,7 +82,7 @@ work:
       - Successfully trained translation models for the two games using Llama-3-70B, enhancing automation and efficiency in language localization for their international launches
       - Introduced the retrieval-augmented generation (RAG) technique to the models to address term translation challenges and improve model performance, achieving translation edit rates (TER) below 15 for HOK and below 10 for DF, in line with company targets
   - position: Undergraduate Student Teaching Fellow
-    company_name: Graduate course: Artificial Intelligence, in CUHK(SZ)
+    company_name: Graduate course of Artificial Intelligence, in CUHK(SZ)
     date_start: 2023-09-01
     date_end: 2024-12-18
     summary: |
