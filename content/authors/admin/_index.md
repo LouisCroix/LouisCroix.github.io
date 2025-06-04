@@ -61,7 +61,7 @@ education:
   - area: BE in Computer Science and Engineering
     institution: The Chinese University of Hong Kong, Shenzhen
     date_start: 2021-09-01
-    date_end: 2025-07-01
+    date_end: 2025-06-01
     summary: |
       GPA: 3.78/4.00
       Courses included:
