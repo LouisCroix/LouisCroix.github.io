@@ -96,7 +96,7 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Python, C, C++
         description: ''
         percent: 100
         icon: code-bracket
@@ -138,7 +138,7 @@ awards:
     date: 2024-9-26
   - title: Undergraduate Research Award in 2023
     awarder: The Chinese University of Hong Kong (Shenzhen) URA Committee
-    date: 2023-12-01
+    date: 2023-12-20
   - title: Student Union Certificate of Honor in academic year 2022-2023
     awarder: The Chinese University of Hong Kong (Shenzhen) Student Union
     date: 2023-06-10
