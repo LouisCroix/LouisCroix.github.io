@@ -135,7 +135,7 @@ languages:
 awards:
   - title: Dean's Lists for academic years from 2021 to 2024
     awarder: School of Data Science
-    date: 2024-10-21
+    date: 2024-9-26
   - title: Undergraduate Research Award in 2023
     awarder: The Chinese University of Hong Kong (Shenzhen) URA Committee
     date: 2023-12-01
