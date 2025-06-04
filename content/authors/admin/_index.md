@@ -84,7 +84,7 @@ work:
   - position: Undergraduate Student Teaching Fellow
     company_name: Graduate course of Artificial Intelligence, in CUHK(SZ)
     date_start: 2023-09-01
-    date_end: 2024-12-18
+    date_end: 2023-12-18
     summary: |
       Responsibilities include:
       - Designed 5 homework projects for the course, covering multiple aspects including word embedding and pre-trained language models, and scored the completion of all 92 students in the course
