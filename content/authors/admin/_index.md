@@ -49,6 +49,7 @@ education:
   - area: M.S.E. in Computer Science
     institution: Johns Hopkins University
     date_start: 2025-08-25
+    date_end: 2027-05-20
   - area: Visiting Student
     institution: University of California, Berkeley
     date_start: 2024-01-15
