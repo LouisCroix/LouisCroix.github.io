@@ -48,7 +48,7 @@ interests:
 education:
   - area: M.S.E. in Computer Science
     institution: Johns Hopkins University
-    date_start: 2025-09-01
+    date_start: 2025-08-25
   - area: Visiting Student
     institution: University of California, Berkeley
     date_start: 2024-01-15
@@ -81,6 +81,14 @@ work:
       - Refined the term tables for Chinese-to-English, English-to-French, and English-to-German translations to support the overseas release of Tencent's Honor of Kings (HOK) and Delta Force (DF)
       - Successfully trained translation models for the two games using Llama-3-70B, enhancing automation and efficiency in language localization for their international launches
       - Introduced the retrieval-augmented generation (RAG) technique to the models to address term translation challenges and improve model performance, achieving translation edit rates (TER) below 15 for HOK and below 10 for DF, in line with company targets
+  - position: Undergraduate Student Teaching Fellow
+    company_name: Graduate course: Artificial Intelligence, in CUHK(SZ)
+    date_start: 2024-05-23
+    date_end: 2024-08-30
+    summary: |
+      Responsibilities include:
+      - Designed 5 homework projects for the course, covering multiple aspects including word embedding and pre-trained language models, and scored the completion of all 92 students in the course
+      - Provided students with 10 tutorials about the implementation details of AI models covered in lectures
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -128,8 +136,10 @@ awards:
     awarder: School of Data Science
   - title: Undergraduate Research Award in 2023
     awarder: The Chinese University of Hong Kong (Shenzhen) URA Committee
+  - title: Student Union Certificate of Honor in academic year 2022-2023
+    awarder: The Chinese University of Hong Kong (Shenzhen) Student Union
 ---
 
 ## About Me
 
-Chaohao Yang will graduate from the Chinese University of Hong Kong, Shenzhen this summer and has been accepted by the M.S.E. program in Computer Science at Johns Hopkins University. Currently, he is very interested in the low-precision (quantization/FP4) training and deployment of large language models and other foundation models. In addition, he also has some insights into the design of the position embedding of foundation models. He hopes to become a research assistant for professors in related fields to pave the way for applying for a Ph.D. degree in the future.
+Chaohao Yang will graduate from the Chinese University of Hong Kong, Shenzhen this summer and has been accepted by the M.S.E. program in Computer Science at Johns Hopkins University. Currently, he is very interested in the low-precision (quantization/FP4) training and deployment of large language models and other foundation models. In addition, he also has some insights into the design of the position embedding of foundation models. He hopes to become a research assistant for professors in related fields to pave the way for applying for a Ph.D. in the future.
