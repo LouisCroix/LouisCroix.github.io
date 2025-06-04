@@ -83,12 +83,12 @@ work:
       - Introduced the retrieval-augmented generation (RAG) technique to the models to address term translation challenges and improve model performance, achieving translation edit rates (TER) below 15 for HOK and below 10 for DF, in line with company targets
   - position: Undergraduate Student Teaching Fellow
     company_name: Graduate course: Artificial Intelligence, in CUHK(SZ)
-    date_start: 2024-05-23
-    date_end: 2024-08-30
+    date_start: 2023-09-01
+    date_end: 2024-12-18
     summary: |
       Responsibilities include:
       - Designed 5 homework projects for the course, covering multiple aspects including word embedding and pre-trained language models, and scored the completion of all 92 students in the course
-      - Provided students with 10 tutorials about the implementation details of AI models covered in lectures
+      - Provided students with 10 tutorials about the implementation details of AI models covered in lectures
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
