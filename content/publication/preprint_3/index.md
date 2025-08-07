@@ -15,11 +15,11 @@ date: "2025-05-31"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
 # publication: ""
-# publication_short: ""
+publication_short: In *ICML 2025 Workshop ES-FoMo-III*
 
 abstract: "We propose Q-Adam-mini, a memory-efficient optimizer for Large Language Model (LLM) training that achieves 8x reduction in GPU memory usage while maintaining performance parity with full-precision AdamW. Building upon Adam-mini, which reduces memory footprint of optimizer states by 50% compared to AdamW, we further improve memory efficiency through states quantization. We achieve this by: (i) quantizing the first-order momentum (m) to INT8 and (ii) retaining the second-order momentum (v) in FP32, which occupies less than 1% of total memory. However, embedding layer exhibits weight norm instability. We analyze this issue and address it by applying stochastic rounding for momentum quantization exclusively to the embedding layer. We validate our approach on both pre-training and fine-tuning tasks, with the model size ranging from 60M to 8B. Our results demonstrate that Q-Adam-mini enables scalable LLM training with limited computational resources. Codes are available at: https://anonymous.4open.science/r/Q-Adam-mini-FD45/"
 
