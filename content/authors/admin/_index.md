@@ -146,4 +146,12 @@ awards:
 
 ## About Me
 
-Chaohao Yang graduated from the Chinese University of Hong Kong, Shenzhen this summer and has been accepted by the M.S.E. program in Computer Science at Johns Hopkins University. Currently, he is very interested in methods enhancing the training and inference efficiency of large language models and other foundation models, including low-precision (quantization/FP4) techniques and attention linearization. In addition, he also has some insights into the design of the position embedding of foundation models. He hopes to become a research assistant for professors in related fields to pave the way for applying for a Ph.D. in the future.
+Chaohao Yang is a newly-admitted MSE student in Computer Science at Johns Hopkins. He is very interested in advancing the architecture of large language models (LLMs) to enhance their performance and broaden their applications. As an undergraduate, out of tasks and interests, he conducted extensive research on low-precision LLM training and linearized Transformer. Currently at JHU, He hopes to join a research group in related fields to continue his pursuit of machine learning research and pave the way for applying for a Ph.D.
+
+At this moment, his primary interests are:
+
+**Long-context LLMs**: Enhancing how LLMs learn and store extensive information under resource constraints, through methods like context compression and Transformer complexity reduction. Progress in this area will strengthen LLM inference and memory ability for practical applications.
+
+**Multi-modal LLMs**: Broaden the ability of LLMs to understand diverse data types, making them more effective for real-world tasks such as speech recognition and medical analysis.
+
+**Data-centric LLMs**: Expanding the use of LLMs as intelligent databases and data analyzers for applications like online information retrieval, social media analysis, and medical data processing.
