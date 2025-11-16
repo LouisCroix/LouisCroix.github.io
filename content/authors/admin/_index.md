@@ -150,8 +150,8 @@ I am a first-year M.S.E. student of Computer Science at Johns Hopkins University
 
 At this moment, my research interests include:
 
-**Long-context LLMs**: Enhancing how LLMs learn and store extensive information under resource constraints, through methods like context compression and Transformer complexity reduction. Progress in this area will strengthen LLM inference and memory ability for practical applications.
-
-**Multi-modal LLMs**: Broaden the ability of LLMs to understand diverse data types, making them more effective for real-world tasks such as speech recognition and medical analysis.
+**Multi-modal LLMs**: Broaden the LLMs' ability to understand diverse data types, making them more effective for real-world tasks such as speech recognition and medical analysis.
 
 **Data-centric LLM applications**: Expanding the use of LLMs as intelligent databases and data analyzers for applications like online information retrieval, social media analysis, and medical data processing.
+
+**Long-context LLMs**: Enhancing LLMs' ability to learn and store extensive information under resource constraints, through methods like context compression and Transformer complexity reduction.
