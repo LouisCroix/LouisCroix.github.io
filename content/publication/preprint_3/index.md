@@ -9,9 +9,6 @@ authors:
 date: "2025-05-31"
 # doi: ""
 
-# 添加这行来禁用标题的默认链接
-url: ""
-
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
 
