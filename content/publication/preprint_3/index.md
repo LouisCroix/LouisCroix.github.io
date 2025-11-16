@@ -29,7 +29,7 @@ abstract: "We propose Q-Adam-mini, a memory-efficient optimizer for Large Langua
 # tags:
 # - Large Language Models
 
-featured: true
+# featured: true
 
 # links:
 # - name: Custom Link

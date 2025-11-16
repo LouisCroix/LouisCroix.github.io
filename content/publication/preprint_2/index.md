@@ -26,7 +26,7 @@ abstract: "Distributed word representation (a.k.a. word embedding) is a key focu
 # tags:
 # - Large Language Models
 
-featured: true
+# featured: true
 
 # links:
 # - name: Custom Link

@@ -30,7 +30,7 @@ abstract: 'ChatGPT has stimulated the research boom in the field of large langua
 # tags:
 # - Large Language Models
 
-featured: true
+# featured: true
 
 # links:
 # - name: Custom Link
