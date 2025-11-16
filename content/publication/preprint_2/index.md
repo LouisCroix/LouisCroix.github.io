@@ -28,9 +28,9 @@ abstract: "Distributed word representation (a.k.a. word embedding) is a key focu
 
 # featured: true
 
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: arXiv
+  url: https://doi.org/10.48550/arXiv.2404.14631
 # url_pdf: http://arxiv.org/pdf/1512.04133v1
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: '#'

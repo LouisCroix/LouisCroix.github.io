@@ -32,9 +32,9 @@ abstract: 'ChatGPT has stimulated the research boom in the field of large langua
 
 # featured: true
 
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2305.14450v1
 # url_pdf: http://arxiv.org/pdf/1512.04133v1
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: '#'

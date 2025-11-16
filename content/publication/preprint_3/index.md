@@ -31,9 +31,9 @@ abstract: "We propose Q-Adam-mini, a memory-efficient optimizer for Large Langua
 
 # featured: true
 
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Openreview
+  url: https://openreview.net/pdf?id=sa3uVJLEsR
 # url_pdf: http://arxiv.org/pdf/1512.04133v1
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: '#'
