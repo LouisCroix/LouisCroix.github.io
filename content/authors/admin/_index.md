@@ -134,7 +134,7 @@ awards:
 
 ## About Me
 
-I am an M.S.E. student in Computer Science at Johns Hopkins University. My research centers on understanding and improving the representations of the outside world within deep learning models — from how they encode inputs to how architecture, loss functions, and training shape the resulting representations.
+I am an M.S.E. student in Computer Science at Johns Hopkins University. My research centers on understanding and improving the real-world representations within deep learning models — from how they encode inputs to how architecture, loss functions, and training shape the resulting representations.
 
 My work spans NLP and vision: I have evaluated LLM information extraction capabilities (180 citations), improved Word2Vec with learnable distance weighting, developed a memory-efficient quantized optimizer for LLM training (ICML 2025 Workshop), and am currently investigating semantic representations in latent diffusion models. I also gained industry experience training Llama-3-70B translation models with RAG at Tencent.
 
