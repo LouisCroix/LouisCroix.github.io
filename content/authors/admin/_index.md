@@ -134,12 +134,8 @@ awards:
 
 ## About Me
 
-I am a first-year M.S.E. student of Computer Science at Johns Hopkins University. I'm very interested in advancing the architecture of large language models (LLMs) to enhance their performance and broaden their applications, and I aspire to become a doctoral student to advance toward this goal.
+I am an M.S.E. student in Computer Science at Johns Hopkins University. My research centers on understanding and improving the internal representations of deep learning models — from how they encode inputs to how architecture, loss functions, and training shape the resulting representations.
 
-At this moment, my research interests include:
+My work spans NLP and vision: I have evaluated LLM information extraction capabilities (180+ citations), improved Word2Vec with learnable distance weighting, developed a memory-efficient quantized optimizer for LLM training (ICML 2025 Workshop), and am currently investigating semantic representations in latent diffusion models. I also gained industry experience training Llama-3-70B translation models with RAG at Tencent.
 
-**Multi-modal LLMs**: Broaden the LLMs' ability to understand diverse data types, making them more effective for real-world tasks such as speech recognition and medical analysis.
-
-**Data-centric LLM applications**: Expanding the use of LLMs as intelligent databases and data analyzers for applications like online information retrieval, social media analysis, and medical data processing.
-
-**Long-context LLMs**: Enhancing LLMs' ability to learn and store extensive information under resource constraints, through methods like context compression and Transformer complexity reduction.
+I aspire to pursue a Ph.D. to deepen my expertise in representation learning and generative modeling.
