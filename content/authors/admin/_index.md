@@ -25,9 +25,9 @@ profiles:
     url: https://scholar.google.com.hk/citations?user=N2vQf7sAAAAJ&hl=zh-CN&oi=ao
 
 interests:
-  - Machine Learning
-  - Natural Language Processing
+  - Deep Learning
   - (Multi-modal) Large Language Model
+  - Vision Foundation Model
 
 education:
   - area: M.S.E. in Computer Science
