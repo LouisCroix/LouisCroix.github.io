@@ -1,14 +1,15 @@
 ﻿---
-title: "Is Information Extraction Solved by ChatGPT? An Analysis of Performance, Evaluation Criteria, Robustness and Errors"
+title: "An Empirical Study on Information Extraction using Large Language Models"
 authors:
 - Ridong Han
-- Tao Peng
 - admin
-- Benyou Wang
-- Lu Liu
+- Tao Peng
+- Prayag Tiwari
 - Xiang Wan
+- Lu Liu
+- Benyou Wang
 date: "2023-06-22"
 publication_types: ["preprint"]
-abstract: 'ChatGPT has stimulated the research boom in the field of large language models. In this paper, we assess the capabilities of ChatGPT from four perspectives including Performance, Evaluation Criteria, Robustness and Error Types. Specifically, we first evaluate ChatGPT''s performance on 17 datasets with 14 IE sub-tasks under the zero-shot, few-shot and chain-ofthought scenarios, and find a huge performance gap between ChatGPT and SOTA results. Next, we rethink this gap and propose a soft-matching strategy for evaluation to more accurately reflect ChatGPT''s performance. Then, we analyze the robustness of ChatGPT on 14 IE subtasks, and find that: 1) ChatGPT rarely outputs invalid responses; 2) Irrelevant context and long-tail target types greatly affect ChatGPT''s performance; 3) ChatGPT cannot understand well the subject-object relationships in RE task. Finally, we analyze the errors of ChatGPT, and find that "unannotated spans" is the most dominant error type. This raises concerns about the quality of annotated data, and indicates the possibility of annotating data with ChatGPT. The data and code are released at Github site 1.'
-url_pdf: https://arxiv.org/abs/2305.14450v1
+abstract: "Human-like large language models (LLMs), especially the most powerful and popular ones in OpenAI's GPT family, have proven to be very helpful for many natural language processing (NLP) related tasks. Therefore, various attempts have been made to apply LLMs to information extraction (IE), which is a fundamental NLP task that involves extracting information from unstructured plain text. To demonstrate the latest representative progress in LLMs' information extraction ability, we assess the information extraction ability of GPT-4 (the latest version of GPT at the time of writing this paper) from four perspectives: Performance, Evaluation Criteria, Robustness, and Error Types. Our results suggest a visible performance gap between GPT-4 and state-of-the-art (SOTA) IE methods. To alleviate this problem, considering the LLMs' human-like characteristics, we propose and analyze the effects of a series of simple prompt-based methods, which can be generalized to other LLMs and NLP tasks. Rich experiments show our methods' effectiveness and some of their remaining issues in improving GPT-4's information extraction ability."
+url_pdf: https://doi.org/10.48550/arXiv.2305.14450
 ---
