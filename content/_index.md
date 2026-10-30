@@ -30,6 +30,9 @@ sections:
     content:
       title: Recent Papers
       text: ""
+      # Match the publication order in the CV.
+      sort_by: Weight
+      sort_ascending: true
       filters:
         folders:
           - publication
