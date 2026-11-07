@@ -35,7 +35,7 @@ education:
     date_start: 2025-08-25
     date_end: 2027-05-20
     summary: |
-      GPA: 3.70/4.00
+      GPA: 3.79/4.00
   - area: Visiting Student
     institution: University of California, Berkeley
     date_start: 2024-01-15
@@ -59,14 +59,14 @@ education:
       - Parallel Programming
 
 work:
-  - position: Research Assistant
-    company_name: Johns Hopkins University (with Prof. Anand Bhattad)
-    date_start: 2026-01-15
-    date_end: ''
-    summary: |
-      Responsibilities include:
-      - Investigating how real-world semantic representations can be combined with generative latent diffusion models
-      - Visualizing where LDM-generated images land in the latent space and developing evaluation methods for generative quality with and without representation autoencoders
+  # - position: Research Assistant
+  #   company_name: Johns Hopkins University (with Prof. Anand Bhattad)
+  #   date_start: 2026-01-15
+  #   date_end: ''
+  #   summary: |
+  #     Responsibilities include:
+  #     - Investigating how real-world semantic representations can be combined with generative latent diffusion models
+  #     - Visualizing where LDM-generated images land in the latent space and developing evaluation methods for generative quality with and without representation autoencoders
   - position: Performance R&D Group Intern
     company_name: Tencent TiMi Studio Group
     date_start: 2024-05-23
